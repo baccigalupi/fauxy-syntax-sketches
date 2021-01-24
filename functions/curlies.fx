@@ -1,3 +1,7 @@
+def last(arg1, arg2) {
+  arg2
+}
+
 class Some {
   def ? {
     self
